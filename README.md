@@ -64,6 +64,7 @@ The ratius of the curvature is caluclated by first convert the pixs of the fit l
 #### Draw lane region (Code in Step 5.3: Inverse perspective transformation)
 The region of the lane is highled with green color on the undistorted image by transform the topview lane region using the reverse transform matrix.  Here is an example of my result on a test image:
 ![alt text](https://github.com/davidsky900/SelfDrivingCar-AdvancedLanelineDetection/blob/master/output_images/lanelineDetection5.png)
+The left subplot plot is the image before persepective transformation, the right subplot is the image with identified lane regions (green area). The radius of curvature and the vehicle position are printed as well.
 
 ---
 

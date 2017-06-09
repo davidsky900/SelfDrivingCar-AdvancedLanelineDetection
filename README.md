@@ -40,7 +40,7 @@ The left subplot is the undistorted image, the middle subplot is the features ex
 
 #### Perspective transformation (Code in Step 4: Perspective transform)
 The perspective transformation is processed by transforming four specified source points into four specified destination points. The quality of transformation is determined by how parallel the lanelines are in the transformed images. 
-This selected source and destination points are listed below （from top left to bottom left in clockwise direction）:
+This selected source and destination points are listed below （from top left to bottom left in clockwise direction:
 
 | Source        | Destination   | 
 |:-------------:|:-------------:| 
@@ -69,8 +69,8 @@ The region of the lane is highled with green color on the undistorted image by t
 
 ### Pipeline (video)
 
-#### The final video of the project is provided below. The overall performance is reasonable.
-Here's a [link to my video result](https://github.com/davidsky900/SelfDrivingCar-AdvancedLanelineDetection/blob/master/output_videos/video1_out.mp4)
+#### The final video of the project is provided below. 
+The overall performance is reasonable with few frames to be jumped due to the change of lighting condition. Here's a [link to my video result](https://github.com/davidsky900/SelfDrivingCar-AdvancedLanelineDetection/blob/master/output_videos/video1_out.mp4)
 
 ---
 

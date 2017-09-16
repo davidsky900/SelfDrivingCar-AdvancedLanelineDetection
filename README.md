@@ -1,7 +1,10 @@
-## Advanced Laneline Detection
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# Udacity Self-Driving Car Engineer Nanodegree
+# Project: Advanced Laneline Detection
+---
 
-### Overview
-In this project, advanced computer vision techniques to determine lane lines with curvatures. To achieve the goal, the following steps are taken:
+### Summary of Project
+In this project, a lane line detection algorithm is developed in Python to detect curvature lane lines and the within lane region in videos shot by front facing camera in car. To achieve the goal, the following steps are taken:
 
 * Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
 * Apply a distortion correction to raw images.
@@ -11,6 +14,8 @@ In this project, advanced computer vision techniques to determine lane lines wit
 * Determine the curvature of the lane and vehicle position with respect to center.
 * Warp the detected lane boundaries back onto the original image.
 * Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+
+The algorithm is implemented and tested on different highway driving videos, and successfully demonstrates the detection of curvature lane lines and lane regions under different lane line color and lighting conditions.
 
 The code related to this project is provided in the file of AdvLaneLine.ipynb. The following section describes the method applied in each steps, with demonstrative examples. The code corresponding to each section is labeled in the ipynb file. 
 

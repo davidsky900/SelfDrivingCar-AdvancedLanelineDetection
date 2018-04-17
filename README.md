@@ -1,5 +1,6 @@
-# Udacity Self-Driving Car Engineer Nanodegree
 # Project: Advanced Laneline Detection
+### Udacity Self-Driving Car Engineer Nanodegree
+
 ---
 
 ### Summary of Project

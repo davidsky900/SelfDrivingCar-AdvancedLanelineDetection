@@ -1,5 +1,4 @@
-# Project: Advanced Laneline Detection
-### Udacity Self-Driving Car Engineer Nanodegree
+# Lane Line Detection with Classical Computer Vision Method
 
 ---
 

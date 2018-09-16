@@ -75,7 +75,7 @@ The left subplot plot is the image before persepective transformation, the right
 ### Pipeline (video)
 
 #### The final video of the project is provided below. 
-The overall performance is reasonable with few frames to be jumped due to the change of lighting condition. Here's a [link to my video result](https://github.com/davidsky900/SelfDrivingCar-AdvancedLanelineDetection/blob/master/output_videos/video1_out.mp4)
+The overall performance is reasonable with few frames to be jumped due to the change of lighting condition. Here's a [youtube link] to the video result (https://www.youtube.com/watch?v=yH9-gXWUrFE)
 
 ---
 

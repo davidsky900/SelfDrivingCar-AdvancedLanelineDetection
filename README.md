@@ -18,6 +18,8 @@ The algorithm is implemented and tested on different highway driving videos, and
 
 The code related to this project is provided in the file of AdvLaneLine.ipynb. The following section describes the method applied in each steps, with demonstrative examples. The code corresponding to each section is labeled in the ipynb file. 
 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=xcl33P_jPWA)
 ---
 
 ### Camera Calibration (Code in Step 1: Camera calibration)

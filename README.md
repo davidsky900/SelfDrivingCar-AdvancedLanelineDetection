@@ -87,3 +87,6 @@ The approach in general is successful in detecting lane lines with curvature, wh
 a. In the video, when the lighting condition changes abruptly, especially when encountering shadows of trees, the detection performance will decline. This might be improved by dynamically change the threshold of L channel at frame by frame basis. 
 
 b. The car appears on the lane will interupt the lane line detection, . This can be addressed by removing the image paches that is identified to be vehicle, so that the disturbance caused by vehicles can be minimized.
+
+### Disclaimer
+The project is part of study of the Nano-degree of Udacity "Self-Driving Car Engineer". The learning material and the data is provided by Udacity, and the key implementation of the project is carried out by Yi Chen.

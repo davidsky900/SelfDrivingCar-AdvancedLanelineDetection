@@ -20,6 +20,7 @@ The code related to this project is provided in the file of AdvLaneLine.ipynb. T
 
 
 [Lane line detection video](https://www.youtube.com/watch?v=xcl33P_jPWA)
+
 ---
 
 ### Camera Calibration (Code in Step 1: Camera calibration)
@@ -77,7 +78,7 @@ The left subplot plot is the image before persepective transformation, the right
 ### Pipeline (video)
 
 #### The final video of the project is provided below. 
-The overall performance is reasonable with few frames to be jumped due to the change of lighting condition. Here's a [youtube link] to the video result (https://www.youtube.com/watch?v=yH9-gXWUrFE)
+The overall performance is reasonable with few frames to be jumped due to the change of lighting condition. The video result can be found with this [link](https://www.youtube.com/watch?v=xcl33P_jPWA)
 
 ---
 
